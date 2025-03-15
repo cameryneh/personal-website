@@ -5,11 +5,21 @@ image: images/dr2.png
 ---
 \
 
-**December 2024**
+***December 2024***
 
 Achieved 99.456% predicting accuracy with random forest modeling.
 
 - Cleaned 32,000+ observations of data and 29 predictors consisting of both numerical and categorical values
 - Narrowed down significant predictors and input values of 'ntree' and 'mtry' to reach most accurate predictions
 
+\
+
+## <span>&#9734;</span> Data Cleaning and Modeling
+
+We achieved higher accuracy in our model by imputing missing values based on the type of predictor: mean for numerical predictors and median for categorical predictors. Cross validation was used to condense predictors used with our random forest modeling.
+
 The final written report can be seen [here](/Predicting Obesity Status.pdf).
+
+\
+
+#### <span>&#9734;</span> {style="text-align: center;"}

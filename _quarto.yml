@@ -16,8 +16,9 @@ website:
         text: home
       - href: projects.qmd
         text: projects
+    background: "#ccdcc3"
  
- 
+
   page-footer:
     right: "&copy; 2025, Cameryn Harvey"
 
@@ -27,8 +28,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    anchor-sections: false
     
-    
+
 execute: 
   freeze: auto
 

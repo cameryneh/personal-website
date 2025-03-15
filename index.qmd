@@ -11,7 +11,7 @@ about:
       text: LinkedIn
       url: "https://www.linkedin.com/in/camerynharvey/"
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/cameryneh
     - icon: file-text
       text: Resume
@@ -22,12 +22,12 @@ about:
 ##### **Hello!** {style="text-align: center;"}
 My name is Cameryn Harvey, and I am a current fourth year undergraduate student at UCLA. 
 \
-I enjoy creating stories with data through visualizations and interpretations. My experiences have involved solving real-world problems, which has enhanced my abilities of data cleaning, modeling and analyzing. 
+I am passionate about creating stories with data through visualizations and interpretations. My experiences have involved solving real-world problems, which has enhanced my abilities of data cleaning, modeling and analyzing. 
 \
-I'm actively looking for full-time employment post-graduation to apply my skills in more hands-on and impactful ways!
+Currently looking for full-time employment post-graduation to apply my skills in more hands-on and impactful ways!
 \
 
-### Education
+### <span>&#9734;</span> Education
 
 University of California, Los Angeles \| Los Angeles, CA 
 \
@@ -36,16 +36,16 @@ University of California, Los Angeles \| Los Angeles, CA
 - Bachelor of Science in Statistics and Data Science, with a Minor in Scandinavian
 
 
-### Experience
+### <span>&#9734;</span> Experience
 
 UCLA Bruin Sports Analytics \| Data Analytics Team and Tagging Team Lead 
 \
 \| *April 2024 - present*
 
-- code, reports, and developed software can be seen through: *projects &rarr; '[Tennis Consulting](/)'*
+- code, reports, and developed software can be seen through: *projects &rarr; '[Tennis Consulting](https://camerynharvey.netlify.app/projects/tennis_consulting)'*
 
 
-### Awards
+### <span>&#9734;</span> Awards
 
 - Best Visualization \| ASA's DataFest at UCLA
 \

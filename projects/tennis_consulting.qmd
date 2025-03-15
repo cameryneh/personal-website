@@ -5,27 +5,33 @@ image: images/tennis.png
 ---
 \
 
-**May 2024 - Present**
+***May 2024 - Present***
 
 As part of UCLA's Bruin Sports Analytics (BSA) Tennis Consulting Data Analytics and Tagging teams, I create, analyze, and visualize tennis data for the UCLA Women's and Men's Division 1 teams.
 
 - This data is self created by us through watching tennis matches and 'tagging' points in real time with our tagging software, and occasionally collected through SwingVision's AI software
-- The match viewing website can be previewed [here](https://match-manager-xi.vercel.app/) by signing in with the demo username and password provided on the site
+- The match viewing website can be previewed by signing in with the demo username and password provided on the site [here](https://match-manager-xi.vercel.app)
 
 \
 
-#### Data Analytics
+## <span>&#9734;</span> Data Analytics
 
 On the Data Analytics Team, I am a part of a small group that receives datasets provided by the Tagging Team and subsequently clean, visualize, and interpret the data. This process culminates to a written report that is sent directly to the UCLA tennis player whose match was analyzed with added suggestions and key insights to assist the player with future matches. An example of a finished report is available [here](/BSA Tennis Report.pdf).
 
 \
 
-#### Jupyter Notebook and EDA
+## <span>&#9734;</span> Jupyter Notebook and EDA
 
 We clean the data through a multitude of error checks within a Python Jupyter Notebook to generate CSV and JSON data formats. I generated a depth metric and exploratory data analysis (EDA) to the software’s error checks within this notebook, which can be viewed in the GitHub repository [here](https://github.com/bruin-tennis-consulting/swingvision/blob/main/STP_2-24-25.ipynb).
 
 \
 
-#### Team Lead
+## <span>&#9734;</span> Team Lead
 
-As a tagging lead, I supervise a group of members through the technical aspects of the tagging software, teaching and encouraging them along the way. I help de-bug issues with the software while facilitating a productive and collaborative working environment. The tagging software can be found after signing in with the demo username and password provided on the site [here](https://match-manager-xi.vercel.app/match-list).
+As a tagging lead, I supervise a group of members through the technical aspects of the tagging software, teaching and encouraging them along the way. I help de-bug issues with the software while facilitating a productive and collaborative working environment.  The tagging software can be found with these steps: 
+
+###### &rarr; sign in to the [site](https://match-manager-xi.vercel.app) with the demo username and password &rarr; add '/match-list'  to the end of the url &rarr; select any 'Tag Match - Full' buttons {style="text-align: center;"}
+
+\
+
+#### <span>&#9734;</span> {style="text-align: center;"}

@@ -4,48 +4,118 @@
     "href": "index.html",
     "title": "Cameryn Harvey",
     "section": "",
-    "text": "Hello!\nMy name is Cameryn Harvey, and I am a current fourth year undergraduate student at UCLA.\nI enjoy creating stories with data through visualizations and interpretations. My experiences have involved solving real-world problems, which has enhanced my abilities of data cleaning, modeling and analyzing.\nI’m actively looking for full-time employment post-graduation to apply my skills in more hands-on and impactful ways!\n\n\n\nEducation\nUniversity of California, Los Angeles | Los Angeles, CA\n| Sept 2021 - June 2025\n\nBachelor of Science in Statistics and Data Science, with a Minor in Scandinavian\n\n\n\nExperience\nUCLA Bruin Sports Analytics | Data Analytics Team and Tagging Team Lead\n| April 2024 - present\n\ncode, reports, and developed software can be seen through: projects → ‘Tennis Consulting’\n\n\n\nAwards\n\nBest Visualization | ASA’s DataFest at UCLA\n| April 2024\n\n\n\n\nExtracurriculars\nKappa Delta Sorority | Active Member | Sisterhood Committee\n| November 2022 - present\nUCLA Club Lacrosse | Athlete | Apparel and Equipment Co-Chair\n| September 2024 - December 2024\n\n\nInterests\n\nsports, the gym, and being in the outdoors\nreading, photography, videography, and editing\nplaying instruments and listening to music, especially at concerts!"
+    "text": "Hello!\nMy name is Cameryn Harvey, and I am a current fourth year undergraduate student at UCLA.\nI am passionate about creating stories with data through visualizations and interpretations. My experiences have involved solving real-world problems, which has enhanced my abilities of data cleaning, modeling and analyzing.\nCurrently looking for full-time employment post-graduation to apply my skills in more hands-on and impactful ways!\n\n\n\n☆ Education\nUniversity of California, Los Angeles | Los Angeles, CA\n| Sept 2021 - June 2025\n\nBachelor of Science in Statistics and Data Science, with a Minor in Scandinavian\n\n\n\n☆ Experience\nUCLA Bruin Sports Analytics | Data Analytics Team and Tagging Team Lead\n| April 2024 - present\n\ncode, reports, and developed software can be seen through: projects → ‘Tennis Consulting’\n\n\n\n☆ Awards\n\nBest Visualization | ASA’s DataFest at UCLA\n| April 2024\n\n\n\n\nExtracurriculars\nKappa Delta Sorority | Active Member | Sisterhood Committee\n| November 2022 - present\nUCLA Club Lacrosse | Athlete | Apparel and Equipment Co-Chair\n| September 2024 - December 2024\n\n\nInterests\n\nsports, the gym, and being in the outdoors\nreading, photography, videography, and editing\nplaying instruments and listening to music, especially at concerts!"
   },
   {
     "objectID": "projects/coursekata_analysis.html",
     "href": "projects/coursekata_analysis.html",
     "title": "CourseKata Data Analysis",
     "section": "",
-    "text": "April 2024\nAwarded Best Visualization from ASA DataFest at UCLA, for my group’s slide deck, findings, and presentation.\n\nAnalyzed 2,000,000+ rows across 6 datasets using R and Python for 48-hour competition of nearly 80 teams\nCreated and shared team findings in a 2-slide presentation to a panel of 25 judges and 400+ individuals\nDeveloped strategic and compelling call-to-action suggestions to the CourseKata company representatives who provided the data\nAchieved 97% prediction accuracy using random forest modeling\n\nView my team’s winning slide deck here."
+    "text": "April 2024\nAwarded Best Visualization from ASA DataFest at UCLA, for my group’s slide deck, findings, and presentation."
   },
   {
     "objectID": "projects/predicting_obesity_status.html",
     "href": "projects/predicting_obesity_status.html",
     "title": "Predicting Obesity Status",
     "section": "",
-    "text": "December 2024\nAchieved 99.456% predicting accuracy with random forest modeling.\n\nCleaned 32,000+ observations of data and 29 predictors consisting of both numerical and categorical values\nNarrowed down significant predictors and input values of ‘ntree’ and ‘mtry’ to reach most accurate predictions\n\nThe final written report can be seen here."
+    "text": "December 2024\nAchieved 99.456% predicting accuracy with random forest modeling."
   },
   {
     "objectID": "projects/cyber_psyche.html",
     "href": "projects/cyber_psyche.html",
     "title": "Cyber Psyche Website",
     "section": "",
-    "text": "July 2024\nServed as the head analyst and visualization specialist, using Tableau to craft each chart, plot, and graph post cleaning the data.\n\nDeveloped and designed a website with WordPress to present findings from the analysis of 174,000+ rows of data across 2 datasets\nThese datasets contain various mental health metrics as well as geographical, socioeconomic, among other online player information\n\nThe website along with the different visualizations and findings can be viewed through this link."
+    "text": "July 2024\nConcluded that online gaming, when engaged with mindfully, can have beneficial effects on mental health."
   },
   {
     "objectID": "projects/tennis_consulting.html",
     "href": "projects/tennis_consulting.html",
     "title": "Tennis Consulting",
     "section": "",
-    "text": "May 2024 - Present\nAs part of UCLA’s Bruin Sports Analytics (BSA) Tennis Consulting Data Analytics and Tagging teams, I create, analyze, and visualize tennis data for the UCLA Women’s and Men’s Division 1 teams.\n\nThis data is self created by us through watching tennis matches and ‘tagging’ points in real time with our tagging software, and occasionally collected through SwingVision’s AI software\nThe match viewing website can be previewed here by signing in with the demo username and password provided on the site\n\n\n\n\nData Analytics\nOn the Data Analytics Team, I am a part of a small group that receives datasets provided by the Tagging Team and subsequently clean, visualize, and interpret the data. This process culminates to a written report that is sent directly to the UCLA tennis player whose match was analyzed with added suggestions and key insights to assist the player with future matches. An example of a finished report is available here.\n\n\n\n\nJupyter Notebook and EDA\nWe clean the data through a multitude of error checks within a Python Jupyter Notebook to generate CSV and JSON data formats. I generated a depth metric and exploratory data analysis (EDA) to the software’s error checks within this notebook, which can be viewed here.\n\n\n\n\nTeam Lead\nAs a tagging lead, I supervise a group of members through the technical aspects of the tagging software, teaching and encouraging them along the way. I help de-bug issues with the software while facilitating a productive and collaborative working environment. The tagging software can be found after signing in with the demo username and password provided on the site here."
+    "text": "May 2024 - Present\nAs part of UCLA’s Bruin Sports Analytics (BSA) Tennis Consulting Data Analytics and Tagging teams, I create, analyze, and visualize tennis data for the UCLA Women’s and Men’s Division 1 teams."
   },
   {
     "objectID": "projects/tire_performance_analysis.html",
     "href": "projects/tire_performance_analysis.html",
-    "title": "Analysis of Tire Performance on Lap Speed",
+    "title": "Analysis of Tire Performance",
     "section": "",
-    "text": "March 2025\nDetermined that Hankook tires outperform Pirelli tires.\nSourced and cleaned data from Lamborghini Super Trofeo Series from the Laguna Seca track for the 2021-2024 seasons.\n\nAnalyzed the switch in tire companies from Pirelli to Hankook in the year 2023 and its impact on tire degradation and overall performance\nWas the lead data analyst and created the visuals for data regarding Race 1, Race 2, and the different sectors within the course\nProduced models for each sector lap times and the overall lap times with significant predictors and low variance inflation factors\n\nThe final written report can be can be seen here.\nThe GitHub Repository containing my code is observable here."
+    "text": "March 2025\nDetermined that Hankook tires outperformed Pirelli tires."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Analysis of Tire Performance on Lap Speed\n\n\n\n\n\n\n\n\n\n\n\n\n\nCourseKata Data Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\nCyber Psyche Website\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Obesity Status\n\n\n\n\n\n\n\n\n\n\n\n\n\nTennis Consulting\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Analysis of Tire Performance\n\n\n\n\n\n\n\n\n\n\n\n\n\nCourseKata Data Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\nCyber Psyche Website\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Obesity Status\n\n\n\n\n\n\n\n\n\n\n\n\n\nTennis Consulting\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/tennis_consulting.html#data-analytics",
+    "href": "projects/tennis_consulting.html#data-analytics",
+    "title": "Tennis Consulting",
+    "section": "☆ Data Analytics",
+    "text": "☆ Data Analytics\nOn the Data Analytics Team, I am a part of a small group that receives datasets provided by the Tagging Team and subsequently clean, visualize, and interpret the data. This process culminates to a written report that is sent directly to the UCLA tennis player whose match was analyzed with added suggestions and key insights to assist the player with future matches. An example of a finished report is available here."
+  },
+  {
+    "objectID": "projects/tennis_consulting.html#jupyter-notebook-and-eda",
+    "href": "projects/tennis_consulting.html#jupyter-notebook-and-eda",
+    "title": "Tennis Consulting",
+    "section": "☆ Jupyter Notebook and EDA",
+    "text": "☆ Jupyter Notebook and EDA\nWe clean the data through a multitude of error checks within a Python Jupyter Notebook to generate CSV and JSON data formats. I generated a depth metric and exploratory data analysis (EDA) to the software’s error checks within this notebook, which can be viewed in the GitHub repository here."
+  },
+  {
+    "objectID": "projects/tennis_consulting.html#team-lead",
+    "href": "projects/tennis_consulting.html#team-lead",
+    "title": "Tennis Consulting",
+    "section": "☆ Team Lead",
+    "text": "☆ Team Lead\nAs a tagging lead, I supervise a group of members through the technical aspects of the tagging software, teaching and encouraging them along the way. I help de-bug issues with the software while facilitating a productive and collaborative working environment. The tagging software can be found with these steps:\n\n→ sign in to the site with the demo username and password → add ‘/match-list’ to the end of the url → select any ‘Tag Match - Full’ buttons\n\n\n\n\n☆"
+  },
+  {
+    "objectID": "projects/tire_performance_analysis.html#data-analytics-and-visualizations",
+    "href": "projects/tire_performance_analysis.html#data-analytics-and-visualizations",
+    "title": "Analysis of Tire Performance",
+    "section": "☆ Data Analytics and Visualizations",
+    "text": "☆ Data Analytics and Visualizations\nAs the lead data analyst, I created all visuals regarding Race 1, Race 2, and the sectors of the circuit. Additionally, I produced the final models for the individual sector lap times and overall lap times that maintained low variance inflation factors and different significant predictors for each model.\nThe written report can be can be viewed here.\nThe GitHub Repository containing my code and visualizations is observable here.\n\n\n\n☆"
+  },
+  {
+    "objectID": "projects/coursekata_analysis.html#section",
+    "href": "projects/coursekata_analysis.html#section",
+    "title": "CourseKata Data Analysis",
+    "section": "☆",
+    "text": "☆\nWe developed strategic and compelling call-to-action suggestions to the CourseKata company representatives who provided the data, having achieved 97% prediction accuracy using random forest modeling.\nView my team’s winning slide deck here.\n\n\n\n☆"
+  },
+  {
+    "objectID": "projects/coursekata_analysis.html#data-driven-narratives",
+    "href": "projects/coursekata_analysis.html#data-driven-narratives",
+    "title": "CourseKata Data Analysis",
+    "section": "☆ Data-Driven Narratives",
+    "text": "☆ Data-Driven Narratives\nWe developed strategic and compelling call-to-action suggestions to the CourseKata company representatives who provided the data, having achieved 97% prediction accuracy using random forest modeling.\nView my team’s winning slide deck here.\n\n\n\n☆"
+  },
+  {
+    "objectID": "projects/cyber_psyche.html#data-visualizations-and-insights",
+    "href": "projects/cyber_psyche.html#data-visualizations-and-insights",
+    "title": "Cyber Psyche Website",
+    "section": "☆ Data Visualizations and Insights",
+    "text": "☆ Data Visualizations and Insights\nServing as the head data analyst and visualization specialist, I used Tableau to craft each chart, plot, and graph for this project. Additionally, I meticulously cleaned the data to ensure consistency across variables and assist in preparation for analysis.\nThe developed website, along with the visualizations and findings, can be viewed through this link.\n\n\n\n☆"
+  },
+  {
+    "objectID": "projects/predicting_obesity_status.html#data-cleaning-and-modeling",
+    "href": "projects/predicting_obesity_status.html#data-cleaning-and-modeling",
+    "title": "Predicting Obesity Status",
+    "section": "☆ Data Cleaning and Modeling",
+    "text": "☆ Data Cleaning and Modeling\nWe achieved higher accuracy in our model by imputing missing values based on the type of predictor: mean for numerical predictors and median for categorical predictors. Cross validation was used to condense predictors used with our random forest modeling.\nThe final written report can be seen here.\n\n\n\n☆"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Cameryn Harvey",
+    "section": "☆ Education",
+    "text": "☆ Education\nUniversity of California, Los Angeles | Los Angeles, CA\n| Sept 2021 - June 2025\n\nBachelor of Science in Statistics and Data Science, with a Minor in Scandinavian"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Cameryn Harvey",
+    "section": "☆ Experience",
+    "text": "☆ Experience\nUCLA Bruin Sports Analytics | Data Analytics Team and Tagging Team Lead\n| April 2024 - present\n\ncode, reports, and developed software can be seen through: projects → ‘Tennis Consulting’\n\n\n☆ Awards\n\nBest Visualization | ASA’s DataFest at UCLA\n| April 2024\n\n\n\n\nExtracurriculars\nKappa Delta Sorority | Active Member | Sisterhood Committee\n| November 2022 - present\nUCLA Club Lacrosse | Athlete | Apparel and Equipment Co-Chair\n| September 2024 - December 2024\n\n\nInterests\n\nsports, the gym, and being in the outdoors\nreading, photography, videography, and editing\nplaying instruments and listening to music, especially at concerts!"
   }
 ]

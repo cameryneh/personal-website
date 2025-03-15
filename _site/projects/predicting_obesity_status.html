@@ -33,12 +33,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-f8882e6292bffe1c433a3ccf8bb2790c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -133,15 +132,26 @@ ul.task-list li input[type="checkbox"] {
 
 <p><br>
 </p>
-<p><strong>December 2024</strong></p>
+<p><strong><em>December 2024</em></strong></p>
 <p>Achieved 99.456% predicting accuracy with random forest modeling.</p>
 <ul>
 <li>Cleaned 32,000+ observations of data and 29 predictors consisting of both numerical and categorical values</li>
 <li>Narrowed down significant predictors and input values of ‘ntree’ and ‘mtry’ to reach most accurate predictions</li>
 </ul>
+<p><br>
+</p>
+<section id="data-cleaning-and-modeling" class="level2">
+<h2 data-anchor-id="data-cleaning-and-modeling"><span>☆</span> Data Cleaning and Modeling</h2>
+<p>We achieved higher accuracy in our model by imputing missing values based on the type of predictor: mean for numerical predictors and median for categorical predictors. Cross validation was used to condense predictors used with our random forest modeling.</p>
 <p>The final written report can be seen <a href="../Predicting Obesity Status.pdf">here</a>.</p>
+<p><br>
+</p>
+<section id="section" class="level4" style="text-align: center;">
+<h4 style="text-align: center;" data-anchor-id="section"><span>☆</span></h4>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -164,13 +174,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

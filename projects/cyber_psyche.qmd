@@ -5,11 +5,21 @@ image: images/games.png
 ---
 \
 
-**July 2024**
+***July 2024***
 
-Served as the head analyst and visualization specialist, using Tableau to craft each chart, plot, and graph post cleaning the data.
+Concluded that online gaming, when engaged with mindfully, can have beneficial effects on mental health.
 
-- Developed and designed a website with WordPress to present findings from the analysis of 174,000+ rows of data across 2 datasets
-- These datasets contain various mental health metrics as well as geographical, socioeconomic, among other online player information
+- Developed and designed a website through WordPress to present the data analysis, visualizations, and overall insights
+- The 2 datasets with 174,000+ rows combined contain various mental health metrics as well as geographical, socioeconomic, and behavioral information of online video game players from across the globe
 
-The website along with the different visualizations and findings can be viewed through this [link](https://cyber-psyche.humspace.ucla.edu/).
+\
+
+## <span>&#9734;</span> Data Visualizations and Insights
+
+Serving as the head data analyst and visualization specialist, I used Tableau to craft each chart, plot, and graph for this project. Additionally, I meticulously cleaned the data to ensure consistency across variables and assist in preparation for analysis.
+
+The developed website, along with the visualizations and findings, can be viewed through this [link](https://cyber-psyche.humspace.ucla.edu/).
+
+\
+
+#### <span>&#9734;</span> {style="text-align: center;"}
