@@ -1,5 +1,9 @@
 project:
   type: website
+  resources:
+    - old_resume.pdf
+    - Team_DW.pdf
+
 
 website:
   title: "Cameryn Harvey"
@@ -7,18 +11,21 @@ website:
     right:
       - href: index.qmd
         text: home
-      - href: about.qmd
-        text: about
+      - href: projects.qmd
+        text: projects
+ 
+ 
+  page-footer:
+    right: "&copy; 2025, Cameryn Harvey"
+
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
-
-
-
-
-
+    toc: false
+    
+    
+execute: 
+  freeze: auto
 

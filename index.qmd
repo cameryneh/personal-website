@@ -1,11 +1,42 @@
 ---
 title: "Cameryn Harvey"
+about:
+  template: trestles
+  image: profile_circle.png
+  links:
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:cameryn02harvey@gmail.com"
+    - icon: linkedin
+      text: LinkedIn
+      url: "https://www.linkedin.com/in/camerynharvey/"
+    - icon: github
+      text: Github
+      href: https://github.com/cameryneh
+    - icon: file-text
+      text: Resume
+      url: "old_resume.pdf"
 ---
 
-This is a Quarto website.
+BIO: Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+DOWNLOAD [Resume](/old_resume.pdf)
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+B.S. in Statistics and Data Science, Minor in Scandinavian | Sept 2021 - June 2025
+
+Macalester College | St. Paul, MN
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
+
+## Extracurriculars
+
+
