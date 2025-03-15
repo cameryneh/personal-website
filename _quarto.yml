@@ -3,6 +3,9 @@ project:
   resources:
     - old_resume.pdf
     - Team_DW.pdf
+    - Predicting Obesity Status.pdf
+    - Analyzing Tire Degradation.pdf
+    - BSA Tennis Report.pdf
 
 
 website:

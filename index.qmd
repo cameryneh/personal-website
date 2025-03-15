@@ -18,25 +18,54 @@ about:
       url: "old_resume.pdf"
 ---
 
-BIO: Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+##### **Hello!** {style="text-align: center;"}
+My name is Cameryn Harvey, and I am a current fourth year undergraduate student at UCLA. 
+\
+I enjoy creating stories with data through visualizations and interpretations. My experiences have involved solving real-world problems, which has enhanced my abilities of data cleaning, modeling and analyzing. 
+\
+I'm actively looking for full-time employment post-graduation to apply my skills in more hands-on and impactful ways!
+\
+
+### Education
+
+University of California, Los Angeles \| Los Angeles, CA 
+\
+\| *Sept 2021 - June 2025*
+
+- Bachelor of Science in Statistics and Data Science, with a Minor in Scandinavian
 
 
-DOWNLOAD [Resume](/old_resume.pdf)
+### Experience
 
-## Education
+UCLA Bruin Sports Analytics \| Data Analytics Team and Tagging Team Lead 
+\
+\| *April 2024 - present*
 
-University of California, Los Angeles | Los Angeles, CA
-B.S. in Statistics and Data Science, Minor in Scandinavian | Sept 2021 - June 2025
-
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
-
-## Extracurriculars
+- code, reports, and developed software can be seen through: *projects &rarr; '[Tennis Consulting](/)'*
 
 
+### Awards
+
+- Best Visualization \| ASA's DataFest at UCLA
+\
+\| *April 2024*
+
+\
+
+#### **Extracurriculars**
+
+Kappa Delta Sorority \| Active Member \| Sisterhood Committee 
+\
+\| *November 2022 - present*
+
+UCLA Club Lacrosse \| Athlete \| Apparel and Equipment Co-Chair 
+\
+\| *September 2024 - December 2024*
+
+
+#### **Interests**
+
+- sports, the gym, and being in the outdoors
+- reading, photography, videography, and editing
+- playing instruments and listening to music, especially at concerts!

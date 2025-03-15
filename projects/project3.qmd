@@ -1,9 +1,0 @@
----
-title: Kaggle Competition
-image: images/dr2.png
----
-\
-
-**December 2024**
-
-Predicting Obesity Status and received 99.8% accuracy.

@@ -1,9 +1,0 @@
----
-title: Cyber Psyche Website
-image: images/games.png
----
-\
-
-**July 2024**
-
-Analysis of Online Gaming and Mental Health.

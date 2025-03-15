@@ -7,7 +7,7 @@ listing:
      - "/projects/*.qmd"
     sort: true
     sort-ui: false
-    filter-ui: true
+    filter-ui: false
     type: grid
     fields:
       - title
@@ -17,4 +17,3 @@ listing:
 
 :::project-listing
 :::
-

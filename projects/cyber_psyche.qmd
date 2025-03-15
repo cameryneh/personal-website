@@ -1,0 +1,15 @@
+---
+title: Cyber Psyche Website
+subtitle: Analysis of Online Gaming and Mental Health
+image: images/games.png
+---
+\
+
+**July 2024**
+
+Served as the head analyst and visualization specialist, using Tableau to craft each chart, plot, and graph post cleaning the data.
+
+- Developed and designed a website with WordPress to present findings from the analysis of 174,000+ rows of data across 2 datasets
+- These datasets contain various mental health metrics as well as geographical, socioeconomic, among other online player information
+
+The website along with the different visualizations and findings can be viewed through this [link](https://cyber-psyche.humspace.ucla.edu/).

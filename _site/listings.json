@@ -2,11 +2,11 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/project4.html",
-      "/projects/project1.html",
-      "/projects/project2.html",
-      "/projects/project3.html",
-      "/projects/project5.html"
+      "/projects/tire_performance_analysis.html",
+      "/projects/coursekata_analysis.html",
+      "/projects/cyber_psyche.html",
+      "/projects/predicting_obesity_status.html",
+      "/projects/tennis_consulting.html"
     ]
   }
 ]

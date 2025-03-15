@@ -1,0 +1,21 @@
+---
+title: Analysis of Tire Performance on Lap Speed
+subtitle: Comparison of Pirelli and Hankook Tires
+image: images/racing.jpeg
+---
+\
+
+**March 2025**
+
+Determined that Hankook tires outperform Pirelli tires.
+
+
+Sourced and cleaned data from Lamborghini Super Trofeo Series from the Laguna Seca track for the 2021-2024 seasons. 
+
+- Analyzed the switch in tire companies from Pirelli to Hankook in the year 2023 and its impact on tire degradation and overall performance
+- Was the lead data analyst and created the visuals for data regarding Race 1, Race 2, and the different sectors within the course
+- Produced models for each sector lap times and the overall lap times with significant predictors and low variance inflation factors
+
+The final written report can be can be seen [here](/Analyzing Tire Degradation.pdf).
+
+The GitHub Repository containing my code is observable [here](https://github.com/cameryneh/Pirelli-vs-Hankook-Tire-Performance).
