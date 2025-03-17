@@ -9,7 +9,7 @@ image: images/dr2.png
 
 Achieved 99.456% predicting accuracy with random forest modeling.
 
-- Cleaned 32,000+ observations of data and 29 predictors consisting of both numerical and categorical values
+- Cleaned 32K+ observations of data and 29 predictors consisting of both numerical and categorical values
 - Narrowed down significant predictors and input values of 'ntree' and 'mtry' to reach most accurate predictions
 
 \

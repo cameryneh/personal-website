@@ -30,7 +30,7 @@ We clean the data through a multitude of error checks within a Python Jupyter No
 
 As a tagging lead, I supervise a group of members through the technical aspects of the tagging software, teaching and encouraging them along the way. I help de-bug issues with the software while facilitating a productive and collaborative working environment.  The tagging software can be found with these steps: 
 
-###### &rarr; sign in to the [site](https://match-manager-xi.vercel.app) with the demo username and password &rarr; add '/match-list'  to the end of the url &rarr; select any 'Tag Match - Full' buttons {style="text-align: center;"}
+###### &rarr; sign in to the [site](https://match-manager-xi.vercel.app) with the demo username and password &rarr; add '/match-list'  to the end of the url &rarr; select any 'Tag Match - Full' buttons &rarr; explore the tagging software! {style="text-align: center;"}
 
 \
 

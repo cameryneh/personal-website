@@ -15,14 +15,14 @@ about:
       href: https://github.com/cameryneh
     - icon: file-text
       text: Resume
-      url: "old_resume.pdf"
+      url: "C.H. Resume 2025.pdf"
 ---
 
 
 ##### **Hello!** {style="text-align: center;"}
-My name is Cameryn Harvey, and I am a current fourth year undergraduate student at UCLA. 
+My name is Cameryn Harvey, and I am a fourth year undergraduate student at UCLA. 
 \
-I am passionate about creating stories with data through visualizations and interpretations. My experiences have involved solving real-world problems, which has enhanced my abilities of data cleaning, modeling and analyzing. 
+I am passionate about creating stories with data through visualizations and interpretations. My experiences involve solving real-world problems which has enhanced my abilities of data cleaning, modeling and analyzing. 
 \
 Currently looking for full-time employment post-graduation to apply my skills in more hands-on and impactful ways!
 \
@@ -57,7 +57,7 @@ UCLA Bruin Sports Analytics \| Data Analytics Team and Tagging Team Lead
 
 Kappa Delta Sorority \| Active Member \| Sisterhood Committee 
 \
-\| *November 2022 - present*
+\| *November 2022 - Present*
 
 UCLA Club Lacrosse \| Athlete \| Apparel and Equipment Co-Chair 
 \
